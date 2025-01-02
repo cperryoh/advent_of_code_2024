@@ -1,4 +1,4 @@
 libs/bin/
 *.o
-,session/
 build/
+.session/
