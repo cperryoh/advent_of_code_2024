@@ -1,0 +1,4 @@
+-I/opt/homebrew/Cellar/glib/2.82.4/include/glib-2.0
+-I/opt/homebrew/Cellar/glib/2.82.4/lib/glib-2.0/include 
+-I/opt/homebrew/opt/gettext/include 
+-I/opt/homebrew/Cellar/pcre2/10.44/include
